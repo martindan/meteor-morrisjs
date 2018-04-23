@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'bshamblen:morrisjs',
+  name: 'martindan:morrisjs',
   version: '0.5.3',
   summary: 'Charting library Morris.js v0.5.1',
-  git: 'https://github.com/bshamblen/meteor-morrisjs.git',
+  git: 'https://github.com/martindan/meteor-morrisjs.git',
   documentation: 'README.md'
 });
 
