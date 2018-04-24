@@ -1,5 +1,5 @@
 bshamblen:morrisjs@0.5.3
 clubfest:raphael@1.0.0
 jquery@3.3.1
-meteor@1.1.6
-underscore@1.0.3
+meteor@1.6.1
+lodash@4.17.4
